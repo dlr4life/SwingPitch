@@ -12,6 +12,7 @@
 		E8F6774E2215323A00E24FF2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8F6774C2215323A00E24FF2 /* Main.storyboard */; };
 		E8F677502215323C00E24FF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8F6774F2215323C00E24FF2 /* Assets.xcassets */; };
 		E8F677532215323C00E24FF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8F677512215323C00E24FF2 /* LaunchScreen.storyboard */; };
+		E8F6775B2215387600E24FF2 /* Simulator Screen Shot - iPhone 7.png in Resources */ = {isa = PBXBuildFile; fileRef = E8F6775A2215387600E24FF2 /* Simulator Screen Shot - iPhone 7.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E8F6774F2215323C00E24FF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E8F677522215323C00E24FF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E8F677542215323C00E24FF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8F6775A2215387600E24FF2 /* Simulator Screen Shot - iPhone 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 7.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				E8F677482215323A00E24FF2 /* AppDelegate.swift */,
 				E8F6774A2215323A00E24FF2 /* ViewController.swift */,
+				E8F6775A2215387600E24FF2 /* Simulator Screen Shot - iPhone 7.png */,
 				E8F6774C2215323A00E24FF2 /* Main.storyboard */,
 				E8F6774F2215323C00E24FF2 /* Assets.xcassets */,
 				E8F677512215323C00E24FF2 /* LaunchScreen.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8F6775B2215387600E24FF2 /* Simulator Screen Shot - iPhone 7.png in Resources */,
 				E8F677532215323C00E24FF2 /* LaunchScreen.storyboard in Resources */,
 				E8F677502215323C00E24FF2 /* Assets.xcassets in Resources */,
 				E8F6774E2215323A00E24FF2 /* Main.storyboard in Resources */,
