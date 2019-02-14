@@ -3,7 +3,10 @@ Library of Diamond Kinetics terms for swinging &amp; pitching motions
 
 ++ This text contains website data and information used for educational purposes. (I have learned something from the information previously posted @ http://www.diamondkinetics.com.)
 
-![Screen Shot from an iPhone 7](https://github.com/dlr4life/SwingPitch/blob/master/SwingPitch/Simulator%20Screen%20Shot%20-%20iPhone%207.png width="400" title="SwingPitch Image")
+<p align="center">
+  <img src="https://github.com/dlr4life/SwingPitch/blob/master/SwingPitch/Simulator%20Screen%20Shot%20-%20iPhone%207.png" width="350" title="SwingPitch Image (regular)">
+  <img src="https://github.com/dlr4life/SwingPitch/blob/master/SwingPitch/Simulator%20Screen%20Shot%20-%20iPhone%207.png" width="350" alt="SwingPitch Image (large)">
+</p>
 
 -- When pitching, there are 4 different areas: Release, Timing, & Delivery.
 
