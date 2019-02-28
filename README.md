@@ -1,7 +1,7 @@
 # SwingPitch
 Library of Diamond Kinetics terms for swinging &amp; pitching motions
 
-++ This text contains website data and information used for educational purposes. (I have learned something from the information previously posted @ http://www.diamondkinetics.com.)
+- This text contains website data and information used for educational purposes. (I have learned something from the information previously posted @ http://www.diamondkinetics.com.)
 
 <p align="center">
   <img src="https://github.com/dlr4life/SwingPitch/blob/master/SwingPitch/Simulator%20Screen%20Shot%20-%20iPhone%207.png" width="350" alt="SwingPitch Image (large)">
@@ -9,7 +9,7 @@ Library of Diamond Kinetics terms for swinging &amp; pitching motions
 
 -- When pitching, there are 4 different areas: Release, Timing, & Delivery.
 
-++Release
+# Release
 
 Spin Direction
 The direction of the ball’s spin after release as it travels to the plate.  Spin direction is defined as the direction of motion of the leading edge of the ball (the side of the ball facing the batter as it moves to the plate).  
@@ -29,7 +29,7 @@ The direction of the ball’s spin after release as it travels to the plate. Spi
 
 Ball spin is what causes the ball to break due to aerodynamic forces acting on it during flight. The direction of break is the same as the spin direction. The amount of break is dependent on the spin rate, so knowing both of these values tells you about both the direction and amount of break that you can expect from your pitches.
 
-++Timing
+# Timing
 Time to Plate
 The time from initial movement of the pitcher’s hands from the set position until impact of the ball with the catcher’s mitt (or impact with a net if throwing into a net).
 
@@ -47,7 +47,7 @@ The time from the cocking point in the delivery until release of the ball.
 
 This is the second phase of the pitch and can tip a pitch if there is different time for different pitch types. It also contributes to total Time to Plate when trying to hold runners on base.
 
-++Delivery
+# Delivery
 Extension
 The horizontal distance, directed toward the catcher, from set point to release of the ball from the hand. This is a measure of how far the pitcher reaches toward home when throwing the ball.
 
@@ -64,7 +64,7 @@ Pitches:
 - The Split Finger. This pitch will appear to be a fastball, but will drop as it nears the batter, making it difficult to hit. You need large hands to throw this pitch effectively. Hold the ball as if you would for the two-seam fastball. Rotate the ball toward yourself, so your fingers are along the horseshoe seam. Spread your fingers to the outside of the seams and place your thumb directly under the ball.
 
 
--- When swinging, there are 4 different areas: Power, Speed, Quickness, Control, swing path measurements, hip rotation, attack angle. 
+- When swinging, there are 4 different areas: Power, Speed, Quickness, Control, swing path measurements, hip rotation, attack angle. 
 
 ++In the “Power” section there are 3 different metrics:
 - Applied Power – Measures the power of your swing in watts
@@ -98,7 +98,7 @@ The optimum launch angle of a home run is between +20° and +35° degrees. In or
 The optimum approach angle typically needs to be between +5° degrees and +15° degrees in order to hit a hard line drive and between +20° degrees and +35° degrees in order to hit a home run. A negative Approach Angle is the result of a ‘chop’ type swing and usually leads to ground balls.
 
 
---Now that we have covered the basic aspects of a swing while taking place, it's time for the fundamentals behind it:
+- Now that we have covered the basic aspects of a swing while taking place, it's time for the fundamentals behind it:
 
 ++Stance
 
